@@ -1,0 +1,1 @@
+"""Deterministic safety heuristics for terminal commands."""
